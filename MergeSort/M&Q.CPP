@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-#define N 10000
+#define N 8000
 
 void MergeSort(int a[],int left,int right);
 void Merge(int a[],int left,int mid,int right,int temp[]);
